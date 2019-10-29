@@ -4,4 +4,4 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: parrotstream/centos-openjdk:latest
+    image: centos-adoptopenjdk:8
