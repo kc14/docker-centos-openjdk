@@ -1,4 +1,4 @@
-FROM centos
+FROM centos:7
 
 LABEL maintainer="Matteo Capitanio <matteo.capitanio@gmail.com>"
 LABEL maintainer="kc14 <kemmer.consulting+kc14@gmail.com>"
